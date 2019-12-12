@@ -1,8 +1,8 @@
 # PSZT
 
 1. wybór listowego (przy generacji listowego zapamiętaj dla każdego 
-zadania jaką ma przerw w środku - obecna już zmienna waiting time)
-2. dla każdego zadania (od najmniejszego) sprawdź wszystkie większe zadania i sprawdź czy :
+zadania jaką ma przerwę wcześniej - obecna już zmienna waiting time)
+2. dla każdego zadania (od najmniejszego P) sprawdź wszystkie większe (P) zadania i sprawdź czy :
 - sprawdzane zadanie trwa tyle co moje P + mój waiting time
 - sprawdzane zadanie ma R mniejsze równe moje R - mój waiting time
 - czy zamiana polepszy sumaryczną karę?
