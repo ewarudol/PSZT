@@ -1,6 +1,6 @@
 # PSZT
 
-1. wybór listowego (przy generacji listowego zapamiętaj dla każdego 
+1. wybór listowego (skorzystać przy tym z już obecnego SortSchedulera) (przy generacji listowego zapamiętaj dla każdego 
 zadania jaką ma przerwę wcześniej - obecna już zmienna waiting time)
 2. dla każdego zadania (od najmniejszego P) sprawdź wszystkie większe (P) zadania i sprawdź czy :
 - sprawdzane zadanie trwa tyle co moje P + mój waiting time
