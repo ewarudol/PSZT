@@ -1,0 +1,5 @@
+XXXXXX_l.sh (listowy)
+XXXXXX_z.sh (zaawansowany)
+
+$1 - input (instancja)
+$2 - output (plik wynikowy, bezwzglêdna œcie¿ka)
